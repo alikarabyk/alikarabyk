@@ -9,43 +9,10 @@
 <br>
 <hr>
 
-### <font color="FF6363"> Reach out to me ! </font>
-
-
-[<img width="22" src="https://unpkg.com/simple-icons@v4/
-icons/twitter.svg" align="left" />][twitter]
-[<img width="22" src="https://unpkg.com/simple-icons@v4/
-icons/linkedin.svg" align="left" />][linkedin]
-
-
-
+### <font color="FF6363"> Reach out to me ! </font
+  
 
 [twitter]: https://twitter.com/alikarabyk2 
 [linkedin]: https://www.linkedin.com/in/ali-karab%C4%B1y%C4%B1k-8b2414224/
 
-
-
-
-<br>
-<hr>
-
-
-<details>
-<summary>Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?
-username=alikarabyk" >
-</details>
-
-
-<br>
-<hr>
-
-<details>
-<summary>Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikarabyk&layout=compact
-" >
-</details>
-
-<br>
-<hr>
 
