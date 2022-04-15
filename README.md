@@ -9,10 +9,3 @@
 <br>
 <hr>
 
-### <font color="FF6363"> Reach out to me ! </font>
-  
-
-[twitter]: https://twitter.com/alikarabyk2 
-[linkedin]: https://www.linkedin.com/in/ali-karab%C4%B1y%C4%B1k-8b2414224/
-
-
