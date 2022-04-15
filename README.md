@@ -28,7 +28,7 @@
 <br>
 <hr>
 
-<summary>Github Stats</summary>
+
 <img src="https://github-readme-stats.vercel.app/api?
 username=alikarabyk&theme" 
 
@@ -36,9 +36,9 @@ username=alikarabyk&theme"
 <hr>
 
 
-<summary>Most Used Languages</summary>
+
 <img src="https://github-readme-stats.vercel.app/api/
-top-langs/?username=alikarabyk&layout=compact" 
+top-langs/?username=alikarabyk&layout=" 
 
 <br>
 <hr>
