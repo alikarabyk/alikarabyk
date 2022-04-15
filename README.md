@@ -9,7 +9,7 @@
 <br>
 <hr>
 
-### <font color="FF6363"> Reach out to me ! </font
+### <font color="FF6363"> Reach out to me ! </font>
   
 
 [twitter]: https://twitter.com/alikarabyk2 
