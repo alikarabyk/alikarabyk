@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">𝕁𝕦𝕟𝕚𝕠𝕣 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🧙‍♂️ | Author ✍️</h3>
 
-- My Hobbies Blog [https://www.alikarabiyik.xyz](alikarabiyik.xyz)
+- My Hobbies Blog [alikarabiyik.xyz](https://www.alikarabiyik.xyz)
 
 - 📫 How to reach me **urayaltay@outlook.com**
 
