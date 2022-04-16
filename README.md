@@ -16,7 +16,9 @@
 <a href="https://twitter.com/alikarabyk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alikarabyk2" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/ 
 ali-karabıyık-8b2414224"
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-karab%c4%b1y%c4%b1k-8b2414224/" height="30" width="40" /></a>
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ 
+ali-karabıyık-8b2414224"
+height="30" width="40" /></a>
 <a href="https://instagram.com/gandalfthecoder0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gandalfthecoder0" height="30" width="40" /></a>
 </p>
 
