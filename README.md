@@ -1,5 +1,5 @@
 
-<img src="[https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e470nqtw5vvjawizca07owxkjyb2k8bgrsl271ilz6b&rid=giphy.gif&ct=g](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)" align="right"  width="390" height="350">
+<img src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog" align="right"  width="390" height="350">
 
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">𝕁𝕦𝕟𝕚𝕠𝕣 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 & Game 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🧙‍♂️ && Author ✍️</h3>
@@ -22,10 +22,10 @@
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/333618/unity.svg
-" alt="unity" width="40" height="40"/> </a>
- <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/214/636/png-clipart-unreal-tournament-unreal-engine-4-fortnite-others-thumbnail.png" alt="unreal" width="40" height="40"/> </a>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/333618/unity.svg" alt="unity" width="40" height="40"/> </a>
+ <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/214/636/png-clipart-unreal-tournament-unreal-engine-4-fortnite-others-thumbnail.png" alt="unreal" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 
