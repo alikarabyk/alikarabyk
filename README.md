@@ -1,5 +1,5 @@
 
-<img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3cyeWFuOTM5NDQxNDMyZDA3cTUxdWpjZTN4dTUwdDg4N2RobTQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" align="left" width="390" height="350">
+<img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3cyeWFuOTM5NDQxNDMyZDA3cTUxdWpjZTN4dTUwdDg4N2RobTQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" align="right" width="390" height="350">
 
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">𝕁𝕦𝕟𝕚𝕠𝕣 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 & Game 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🧙‍♂️ && Author ✍️</h3>
